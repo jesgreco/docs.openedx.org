@@ -15,7 +15,7 @@ other community members, and are generally polite and welcoming.
 Core Contributors that write code gain write access and even maintainership to one or
 more GitHub repositories in the openedx/ GitHub organization. If you're interested in
 becoming a Core Contributor, the following resources may be helpful to you. You can
-also find us on the `Open edX Slack <https://openedx.org/slack>` in the #core-contributors
+also find us on the `Open edX Slack <https://openedx.org/slack>`_ in the #core-contributors
 Slack room.
 
 ---------
