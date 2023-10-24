@@ -48,6 +48,8 @@ problem types, and progress pages for each course. Much of the LMS functionality
 such as the in-course experience, Open Response Assessment (ORA) grading, and user
 profiles, is implemented via micro front-ends (MFEs).
 
+LMS course content is written to a `Mongo`_ database.
+
 ======
 Studio
 ======
@@ -111,7 +113,7 @@ like order work flows and coupons.
 .. _edx-platform: https://github.com/openedx/edx-platform
 .. _Python: https://www.python.org/
 .. _Django: https://www.djangoproject.com/
-.. _edx.org: http://edx.org/
+.. _Mongo: https://www.mongodb.com/
 .. _Celery: http://www.celeryproject.org/
 .. _Redis: https://redis.io/
 .. _Elasticsearch: https://www.elastic.co/
