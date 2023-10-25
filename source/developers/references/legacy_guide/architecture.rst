@@ -27,7 +27,7 @@ break out more of the existing edx-platform functions into new IDAs and MFEs
 edx-platform code base to make it as easy as possible for developers to approach
 and contribute to the project.
 
-.. image:: ./images/edx-architecture.png
+.. image:: ./images/open-edx-architecture.png
   :width: 700
   :alt: A diagram of the components and technologies that make up an Open edX site.
 
