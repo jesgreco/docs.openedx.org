@@ -92,6 +92,8 @@ that you feel confident in translating.
 #. Your string is now ready for review! Every string must be reviewed and approved before
    it will be accepted into the official translations and released to the community.
 
+> **NOTE:** There is a consensus regarding the use of the formal tone and neutral gender in every translation. However, this will depend on every region.
+
 Next Steps
 **********
 * Learn more about how to translate different types of strings in
